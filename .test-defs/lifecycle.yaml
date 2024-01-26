@@ -3,6 +3,7 @@
 # SPDX-License-Identifier: Apache-2.0
 
 # TODO(vpnachev): Uncomment once the test is implemented and running fine
+# apiVersion: testmachinery.sapcloud.io
 # kind: TestDefinition
 # metadata:
 #   name: lakom-lifecycle
